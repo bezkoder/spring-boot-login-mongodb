@@ -46,3 +46,4 @@ Run both Back-end & Front-end in one place:
 mvn spring-boot:run
 ```
 .............................................................................................................................................
+Run this code in a local environment and make sure everything runs properly.

@@ -45,7 +45,7 @@ Run both Back-end & Front-end in one place:
 ```
 mvn spring-boot:run
 ```
-Redoing it again using command line.
+Redoing it again using command line. ok lets do.
 
 
 

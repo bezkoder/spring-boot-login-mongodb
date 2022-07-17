@@ -45,7 +45,7 @@ Run both Back-end & Front-end in one place:
 ```
 mvn spring-boot:run
 ```
-Fetching again from master for updated changes.
+Deleting that changes.
 
 
 

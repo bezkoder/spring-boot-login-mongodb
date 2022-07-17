@@ -53,6 +53,8 @@ Working on a line 52.
 Working on a line 53 in master.
 Working on line 54 for rebase.
 
+Working on line 56 for a rebase.
+
 
 
 

@@ -45,7 +45,7 @@ Run both Back-end & Front-end in one place:
 ```
 mvn spring-boot:run
 ```
-I am working on my feature branch.
+Deleting that changes. Re Deleting the changes. Now getting using cmd line.
 
 
 

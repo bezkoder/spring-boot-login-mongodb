@@ -45,3 +45,28 @@ Run both Back-end & Front-end in one place:
 ```
 mvn spring-boot:run
 ```
+Redoing it again using command line. ok lets do.
+
+Working on a line 50.
+
+Working on a line 52.
+Working on a line 53 in master.
+Working on line 54 for rebase.
+
+Working on line 56 for a rebase.
+
+Working on a line 54 on feature branch.
+
+working on line 60.
+
+Working on a line 54 on feature branch.
+
+working on line 60.
+
+Working on 62.
+
+Working on line 68.
+
+
+
+

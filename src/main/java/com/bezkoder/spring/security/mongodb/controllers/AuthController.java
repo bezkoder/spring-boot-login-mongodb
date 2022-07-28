@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 
 import javax.validation.Valid;
 
+import com.bezkoder.spring.security.mongodb.payload.response.JwtResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseCookie;
@@ -63,16 +64,16 @@ public class AuthController {
 
     UserDetailsImpl userDetails = (UserDetailsImpl) authentication.getPrincipal();
 
-    ResponseCookie jwtCookie = jwtUtils.generateJwtCookie(userDetails);
+    String jwtCookie = jwtUtils.generateJwtCookie(authentication);
 
 //    List<String> roles = userDetails.getAuthorities().stream()
 //        .map(item -> item.getAuthority())
 //        .collect(Collectors.toList());
 
-    return ResponseEntity.ok().header(HttpHeaders.SET_COOKIE, jwtCookie.toString())
-        .body(new UserInfoResponse(userDetails.getId(),
-                                   userDetails.getUsername(),
-                                   userDetails.getEmail()));
+    return ResponseEntity.ok(new JwtResponse(jwtCookie,
+            userDetails.getId(),
+            userDetails.getUsername(),
+            userDetails.getEmail()));
   }
 
   @PostMapping("/signup")

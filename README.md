@@ -21,11 +21,9 @@ For more detail, please visit:
 > [Spring Boot Login and Registration example with MongoDB](https://www.bezkoder.com/spring-boot-mongodb-login-example/)
 
 Working with Front-end:
-> [Vue](https://www.bezkoder.com/jwt-vue-vuex-authentication/)
+> [Angular 12](https://www.bezkoder.com/angular-12-jwt-auth-httponly-cookie/) / [Angular 13](https://www.bezkoder.com/angular-13-jwt-auth-httponly-cookie/) / [Angular 14](https://www.bezkoder.com/angular-14-jwt-auth/)
 
-> [Angular 8](https://www.bezkoder.com/angular-jwt-authentication/) / [Angular 10](https://www.bezkoder.com/angular-10-jwt-auth/) / [Angular 11](https://www.bezkoder.com/angular-11-jwt-auth/) / [Angular 12](https://www.bezkoder.com/angular-12-jwt-auth/) / [Angular 13](https://www.bezkoder.com/angular-13-jwt-auth/)
-
-> [React](https://www.bezkoder.com/react-jwt-auth/) / [React Redux](https://www.bezkoder.com/react-redux-jwt-auth/)
+> [React](https://www.bezkoder.com/react-login-example-jwt-hooks/)
 
 More Practice:
 > [Spring Boot with MongoDB CRUD example using Spring Data](https://www.bezkoder.com/spring-boot-mongodb-crud/)
@@ -33,6 +31,23 @@ More Practice:
 > [Spring Boot MongoDB Pagination & Filter example](https://www.bezkoder.com/spring-boot-mongodb-pagination/)
 
 > [Spring Boot + GraphQL + MongoDB example](https://www.bezkoder.com/spring-boot-graphql-mongodb-example-graphql-java/)
+
+Fullstack:
+> [Vue.js + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-vue-mongodb/)
+
+> [Angular 8 + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-spring-boot-mongodb/)
+
+> [Angular 10 + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-10-spring-boot-mongodb/)
+
+> [Angular 11 + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-11-spring-boot-mongodb/)
+
+> [Angular 12 + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-12-spring-boot-mongodb/)
+
+> [Angular 13 + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
+
+> [Angular 14 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-14-mongodb/)
+
+> [React + Spring Boot + MongoDB example](https://www.bezkoder.com/react-spring-boot-mongodb/)
 
 Run both Back-end & Front-end in one place:
 > [Integrate Angular with Spring Boot Rest API](https://www.bezkoder.com/integrate-angular-spring-boot/)
